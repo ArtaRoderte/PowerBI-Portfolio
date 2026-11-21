@@ -2,7 +2,7 @@
 
 This repository showcases a selection of dashboards developed to support reporting, performance monitoring, and data-driven decision-making. The projects demonstrate my experience in data visualization, KPI reporting, business intelligence, and analytical storytelling using Power BI.
 
-All dashboards have been reviewed to remove or anonymize sensitive information.
+All dashboards have been reviewed to remove, substitute or anonymize sensitive information.
 
 ---
 
