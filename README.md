@@ -1,6 +1,6 @@
 # Arta Roderte - Power BI Portfolio
 
-Welcome to my Power BI portfolio showcasing reporting, analytics, and business intelligence dashboards developed in Power BI.
+Welcome to my Power BI portfolio showcasing reporting, analytics, and business intelligence dashboards developed in Power BI. These dashboards have been included to demonstrate Power BI reporting, dashboard design, KPI monitoring, and data visualization capabilities. Any sensitive information has been anonymized or removed.
 
 ---
 
@@ -62,8 +62,3 @@ Operational dashboard designed to support claim ownership, workload monitoring, 
 
 <img src="my-claims-management.png" width="900">
 
----
-
-## About
-
-These dashboards have been included to demonstrate Power BI reporting, dashboard design, KPI monitoring, and data visualization capabilities. Any sensitive information has been anonymized or removed.
