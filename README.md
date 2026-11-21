@@ -10,7 +10,7 @@ All dashboards have been reviewed to remove or anonymize sensitive information.
 
 ### Description
 
-Executive dashboard providing a high-level overview of operational performance, portfolio activity, and key business metrics. Consists of 4 pages within the dashboard, showcasing only the overview page.
+Executive dashboard designed to provide a consolidated view of operational performance, portfolio activity, and key business metrics. While the full report consists of four interactive pages, the preview below highlights the primary overview page, presenting the most critical KPIs and insights at a glance.
 
 📄 [View PDF](management-overview.pdf)
 
